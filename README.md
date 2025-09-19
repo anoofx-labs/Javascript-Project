@@ -1,4 +1,4 @@
-# SpendWise Budget Tracker 📊
+# SpendWise Budget Tracker
 
 Track your income and expenses with this straightforward web application, built purely with HTML, CSS, and vanilla JavaScript.
 
