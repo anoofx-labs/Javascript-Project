@@ -4,7 +4,7 @@ Track your income and expenses with this straightforward web application, built 
 
 ---
 
-## What is SpendWise?
+## What is SpendWise
 
 SpendWise aims to be a simple tool for managing personal finances directly in your browser. It allows users to log income and expenses to get a clear picture of their current balance. Like many web projects, it's evolving, and there might be rough edges or bugs needing attention.
 
